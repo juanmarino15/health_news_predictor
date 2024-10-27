@@ -1,0 +1,14 @@
+# Ignore the checkpoint folder
+checkpoint/
+checkpoint_recall/
+checkpoint_ultra/
+news_category_trainingdata.json
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment variables
+.env
